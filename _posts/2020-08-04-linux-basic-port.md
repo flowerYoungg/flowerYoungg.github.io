@@ -12,10 +12,12 @@ tags:
 ## 포트
 
 ★ Port
+
 네트워크를 통해 적절한 어플리케이션을 실행시키기 위한 것
 0~1024 : well known port 많이 쓰이는 유명한 포트 번호
 
 ★ Port forwarding
+
 `ip route` :  Default gateway 의 IP
 `curl http://ipinfo.io/ip` : 자신이 접속한 컴퓨터가 어떠한 공개 IP를 사용하고 있는지 습득 가능
 
@@ -26,6 +28,7 @@ Ex)
 ## 도메인
 
 ★ DNS
+
 Domain Name System Server
 
 Google.com 을 검색창에 입력한다면 .com 을 담당하는 DNS 서버가 무엇인지

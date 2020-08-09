@@ -15,20 +15,25 @@ tags:
 ## 파일을 찾는 법
 
 ★ Locate
+
 locate *.log : log의 확장자를 가진 모든 파일을 mlocate라는 DB 내에서 찾는다
 
 ★ Find
+
 find / -name *.log : log의 확장자를 가진 모든 파일의 이름을 찾는다
 
 ★ Whereis
+
 whereis ls : ls라는 명령어가 어느 디렉토리에 위치해 있는 지 알려준다
 
 ★ $PATH
+
 echo $PATH : path 라는 환경변수에 담겨 있는 정보들이 보여진다
 
 ## 백그라운드 실행
 
 ★ Background
+
 Ctrl + z : 실행중인 프로그램을 백그라운드로 보내는 단축키
              이 기능을 실행하면 명령어가 일시 정지됨
 

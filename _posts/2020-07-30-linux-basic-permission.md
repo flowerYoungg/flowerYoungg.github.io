@@ -12,6 +12,7 @@ tags:
 ## 권한
 
 ★ Permission
+
 File & Directory 에 대한 권한을 지정함
 Read(r) / Write(w) / Execute(x) 의 권한 지정
 *-rw-rw-r--(access mode)*
@@ -33,5 +34,6 @@ Ex)
 ## 그룹
 
 ★ group
+
 파일과 디렉토리를 여러 사용자들이 공동으로 관리 할 수 있는 방법
 groupadd 그룹이름 : 새로운 그룹을 만들 때

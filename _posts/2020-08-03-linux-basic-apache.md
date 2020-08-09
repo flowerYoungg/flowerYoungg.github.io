@@ -12,6 +12,7 @@ tags:
 ## 아파치 웹서버
 
 ★ Apache
+
 `sudo service apache2 start` : apache2 서버 기동
 `sudo service apache2 stop` : apache2 서버 끔
 
@@ -24,6 +25,7 @@ apache2.conf : cd /etc 에 apache2에 대한 설정 파일이 저장되어 있�
 ## SSH
 
 ★ SSH
+
 SSH를 통해 원격에 있는 컴퓨터를 제어 가능
 
 `sudo apt-get intall openssh-server openssh-client` : Linux 환경에 openssh와 openclient 라는 이름의 서버를 다운로드
