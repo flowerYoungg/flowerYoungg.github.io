@@ -17,6 +17,7 @@ alias : 명령어의 별명을 붙이는 것
 
 Ex)
 alias l='ls -al'
+
 alias c='clear'
 
 

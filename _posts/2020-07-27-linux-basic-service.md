@@ -26,9 +26,15 @@ Ex) apache2라는 서비스 기동/정지
 ★ CRON
 
 crontab -e : nano 에디터가 실행됨(e는 edit)
+
  m h  dom mon dow command
+
 	• M : minute
+
 	• H : hour
+
 	• Dom : day of month
+
 	• Mon : month
+
 	• Dow : day of week

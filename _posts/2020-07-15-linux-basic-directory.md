@@ -43,6 +43,7 @@ cd 이동할 디렉토리의 경로명
 ★ rm
 
 rm 파일명
+
 rm -r 디렉토리명
 
 --help
@@ -50,6 +51,9 @@ rm -r 디렉토리명
 
 (Ex) 
   ls --help
+
   rm --help
+
   mkdir --help
+
   pwd --help
