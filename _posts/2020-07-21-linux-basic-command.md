@@ -26,4 +26,4 @@ GUI방식보다 컴퓨터(CPU, memory등)를 덜 쓰는 명령어
 
 Grep 대상단어 대상파일: 대상파일 안에서 대상단어에 해당하는 행만 표시
 
-Ls --help *|* grep sort : 파이프로 연결해서 ls-help 안의 sort가 포함되어 있는 곳만 표시
+Ls --help *\|* grep sort : 파이프로 연결해서 ls-help 안의 sort가 포함되어 있는 곳만 표시
