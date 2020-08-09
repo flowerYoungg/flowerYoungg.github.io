@@ -6,6 +6,9 @@ categories:
 tags:
   - 유저 권한
   - Linux
+  - Super
+  - root
+  - user
 ---
 
 ## 관리자와 일반 사용자
